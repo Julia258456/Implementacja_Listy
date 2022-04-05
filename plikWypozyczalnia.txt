@@ -1,0 +1,15 @@
+Biblioteka
+brak
+0 5
+0 0 0 0 0
+
+Wypozyczalniakaset
+brak
+0 2
+0 0
+
+Wypozyczalniagier
+brak
+0 3
+0 0 0
+
